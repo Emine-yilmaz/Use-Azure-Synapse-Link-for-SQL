@@ -1,0 +1,1 @@
+# Use-Azure-Synapse-Link-for-SQL
