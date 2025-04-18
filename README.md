@@ -1,5 +1,4 @@
 # Use-Azure-Synapse-Link-for-SQL
-# Use Azure Synapse Link for SQL
 
 This document outlines the steps to configure and use Azure Synapse Link for SQL to synchronize data from an Azure SQL Database to a dedicated SQL pool in Azure Synapse Analytics.
 
